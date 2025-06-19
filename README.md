@@ -26,7 +26,7 @@ I'm a freelance Web Developer with 3+ years of experience building functional we
   🔗 [Live Demo](https://www.selisar.com/portfolio/medidor)  
   *Demo credentials:*  
   `Username: demo_user`  
-  `Password: water123`
+  `Password: 12345`
 
 - **🚛 Truck Entry Monitoring System – Acozac** *(Completed)*  
   License plate recognition system to track vehicle entries/exits at a construction site. Includes automation, local server deployment, and custom UI. *(Private project – not publicly accessible)*
