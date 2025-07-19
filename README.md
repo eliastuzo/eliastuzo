@@ -14,10 +14,11 @@ I'm a freelance Web Developer with 3+ years of experience building functional we
 
 ### 🚀 Projects
 
-- **📌 Freelance School Website** *(In Progress)*  
-  Full front-end build with responsive design and PHP/MySQL backend for school administration.
+- **📌 Website Instituto Howard** *(In Progress)*  
+  Fully responsive site for a private school in Mexico offering education from kindergarten to high school.  
+  🔗 [View Site](https://www.institutohoward.org)
 
-- **🍽️ Restaurant Website** *(Completed)*  
+- **🍽️ Website Espresso Central** *(Completed)*  
   Fully responsive site for a local restaurant, including dynamic menus and contact forms.  
   🔗 [View Site](https://www.espressocentral.mx)
 
