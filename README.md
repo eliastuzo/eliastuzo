@@ -14,7 +14,7 @@ I'm a freelance Web Developer with 3+ years of experience building functional we
 
 ### 🚀 Projects
 
-- **📌 Website Instituto Howard** *(In Progress)*  
+- **📌 Website Instituto Howard** *(Completed)*  
   Fully responsive site for a private school in Mexico offering education from kindergarten to high school.  
   🔗 [View Site](https://www.institutohoward.org)
 
